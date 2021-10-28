@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Yashintaro
+- 👀 I’m interested in ... Game Development, Content Creation
+- 🌱 I’m currently learning ... Javascript as my first language
+- 💞️ I’m looking to collaborate on ... uh/
+- 📫 How to reach me ... On my community discord! https://discord.gg/sFx4bsGUuh
